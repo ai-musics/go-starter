@@ -26,7 +26,7 @@ FROM scratch
 # don't forget /etc/passwd from previous stage
 COPY --from=builder /etc/passwd /etc/passwd
 USER starter
-
+COPY ./views /views
 # and finally the binary
 COPY --from=builder /starter/bin/starter /starter
 
