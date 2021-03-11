@@ -15,6 +15,9 @@
     </option>
   </component>
   <component name="GOROOT" path="$PROJECT_DIR$/../../go1.15.3" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
   <component name="ProjectId" id="1pbYRsQXlOFlT93AT9jieUJ14Dg" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -25,10 +28,20 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="788" y="389" width="400" height="327" key="#Go_Modules" timestamp="1615454391202">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="788" y="389" width="400" height="327" key="#Go_Modules/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1615454391202" />
   </component>
 </project>
